@@ -1,7 +1,6 @@
 import React from 'react';
 import axios from 'axios';
 import { API_BASE_URL } from '../config';
-import Header from './Header';
 import './MyPractice.css';
 import requiresLogin from './RequiresLogin';
 
