@@ -4,8 +4,8 @@ An app to help piano students keep track of their practices
 
 See a demo of the app --> <a href="https://noted-piano-practice-app.herokuapp.com/">Click Here</a>
 
-Demo Username: testuser
-Demo Password: music123456
+<b>Demo Username:</b> testuser</br>
+<b>Demo Password:</b> music123456
 
 # Features
  - The app allows users to create a record of their practices
