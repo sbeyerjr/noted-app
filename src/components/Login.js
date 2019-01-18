@@ -18,6 +18,9 @@ export function LandingPage(props) {
         <div className="flex-container">
           <h2 className="intro-text">Login</h2>
           <LoginForm />
+          <p>Demo User:</p>
+          <p>Username: testuser</p>
+          <p>Password: music123456</p>
           <div className="flex-item">
             <Link to="/register">
               <button className="fp-button">Register</button>
