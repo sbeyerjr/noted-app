@@ -86,3 +86,10 @@
   color: #ffffff;
   transition: color 0.5s;
 }
+.demo-info {
+  padding: 10px;
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 5px;
+  text-align: left;
+}
